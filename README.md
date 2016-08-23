@@ -1,5 +1,10 @@
 # SplitConsAtIntersection
-A Pointwise Glyph script to split two connectors wherever they happen to intersect. 
+A Pointwise Glyph script to split two connectors wherever they happen to intersect.
+
+## Operation
+Select two connectors and run *SplitConsAtIntersection.glf*. If no connectors have been selected, running the script will prompt the user to select two connectors. 
+
+Execute *SplitConsAtIntersection-GUI.glf* if a user interface is desired. Upon execution, a Tk window will open with buttons that enable the selection of each connector.
 
 ![ScriptImage](https://raw.github.com/pointwise/SplitConsAtIntersection/master/ScriptImage.png)
 
